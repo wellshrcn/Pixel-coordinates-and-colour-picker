@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34902.65
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "像素颜色拾取器", "像素颜色拾取器\像素颜色拾取器.csproj", "{8BBBAF81-0155-40D2-B3B7-3FD72E2A33BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8BBBAF81-0155-40D2-B3B7-3FD72E2A33BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BBBAF81-0155-40D2-B3B7-3FD72E2A33BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BBBAF81-0155-40D2-B3B7-3FD72E2A33BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BBBAF81-0155-40D2-B3B7-3FD72E2A33BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AE17C3CC-5A1C-4D3E-8314-F5397BE4548A}
+	EndGlobalSection
+EndGlobal
